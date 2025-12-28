@@ -1,7 +1,5 @@
 ## polygon-rpc-starter
 
-🇷🇺 Русская версия: [`README_RU.md`](./README_RU.md)
-
 Быстрый старт Polygon RPC: примеры, тарифы, бесплатный ключ `fastpolygon.tech`.
 
 ### Endpoint
@@ -45,3 +43,5 @@ console.log(await provider.getBlockNumber());
 
 ### Где взять ключ
 Откройте `https://app.fastpolygon.tech` → введите email → получите код → создайте ключ в кабинете.
+
+
